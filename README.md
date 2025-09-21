@@ -16,8 +16,8 @@ A computer vision project to automate coach detection, splitting, and frame extr
 <h2>🔗 GitHub Repository</h2>
 <p>
 Visit the complete codebase on GitHub:<br>
-<a href="https://github.com/pratiksutar841/[your-repo-name]" target="_blank">
-https://github.com/pratiksutar841/[your-repo-name]
+<a href="https://github.com/pratiksutar841/Video-Processing-for-Train-Bottom-View.git" target="_blank">
+https://github.com/pratiksutar841/Video-Processing-for-Train-Bottom-View.git
 </a>
 </p>
 
